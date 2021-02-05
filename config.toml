@@ -1,4 +1,4 @@
-baseURL = "http://www.example.com"
+baseURL = "https://jeyochan.github.io/jyBlog/"
 title = "小陈之家"
 
 theme = "hugo-coder"
