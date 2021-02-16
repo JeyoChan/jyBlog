@@ -1,4 +1,4 @@
-baseURL = "https://jeyochan.github.io/jyBlog/"
+baseURL = "https://jeyochan.github.io"
 title = "小陈之家"
 
 theme = "hugo-coder"
@@ -160,9 +160,9 @@ disqusShortname = "owner"
         [languages.en.menu]
 
             [[languages.en.menu.main]]
-            name = "About"
+            name = "技术博客"
             weight = 1
-            url = "about/"
+            url = "tech/"
 
             [[languages.en.menu.main]]
             name = "Blog"
@@ -175,10 +175,9 @@ disqusShortname = "owner"
             url = "projects/"
 
             [[languages.en.menu.main]]
-            name = "Contact me"
+            name = "搜索"
             weight = 5
-            url = "contact/"
-
+            url = "search/"
 
 #    [languages.pt-br]
 #        languageName = "Português"
