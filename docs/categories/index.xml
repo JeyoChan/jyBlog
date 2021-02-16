@@ -2,35 +2,35 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on 小陈之家</title>
-    <link>https://jeyochan.github.io/jyBlog/categories/</link>
+    <link>https://jeyochan.github.io/categories/</link>
     <description>Recent content in Categories on 小陈之家</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language>
-    <lastBuildDate>Thu, 17 Jan 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://jeyochan.github.io/jyBlog/categories/index.xml" rel="self" type="application/rss+xml" />
+    <language>chinese</language>
+    <lastBuildDate>Thu, 17 Jan 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://jeyochan.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Development</title>
-      <link>https://jeyochan.github.io/jyBlog/categories/development/</link>
+      <link>https://jeyochan.github.io/categories/development/</link>
       <pubDate>Thu, 17 Jan 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://jeyochan.github.io/jyBlog/categories/development/</guid>
+      <guid>https://jeyochan.github.io/categories/development/</guid>
       <description></description>
     </item>
     
     <item>
       <title>blog</title>
-      <link>https://jeyochan.github.io/jyBlog/categories/blog/</link>
+      <link>https://jeyochan.github.io/categories/blog/</link>
       <pubDate>Mon, 31 Dec 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://jeyochan.github.io/jyBlog/categories/blog/</guid>
+      <guid>https://jeyochan.github.io/categories/blog/</guid>
       <description></description>
     </item>
     
     <item>
       <title>golang</title>
-      <link>https://jeyochan.github.io/jyBlog/categories/golang/</link>
+      <link>https://jeyochan.github.io/categories/golang/</link>
       <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://jeyochan.github.io/jyBlog/categories/golang/</guid>
+      <guid>https://jeyochan.github.io/categories/golang/</guid>
       <description></description>
     </item>
     
